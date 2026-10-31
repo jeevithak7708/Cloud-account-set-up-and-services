@@ -99,6 +99,11 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 ## Output:
 <img width="1907" height="1055" alt="Screenshot 2026-10-17 094950" src="https://github.com/user-attachments/assets/2e885477-a04a-4359-ae67-ae85721fa6d3" />
 
+## s3
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/0b4f63b1-f02b-4334-99bd-a5021b4b5d13" />
+
+## EC2
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/4f6168e5-ed83-4c27-8b35-5d7944ac8dbe" />
 
 
 ## Result:
